@@ -91,6 +91,8 @@ void setup() {
   pinMode(BombLLenado,OUTPUT); 
   pinMode(BombBaciado,OUTPUT); 
   pinMode(BombAgua,OUTPUT); 
+
+  //aqui inicializamos en mi caso los relevadores se activan con LOW y no con HIGH tomar en cuenta
   digitalWrite(MotorDerecha , HIGH);
   digitalWrite(MotorIzquierda, HIGH);
   digitalWrite(BombLLenado, HIGH);
@@ -128,7 +130,7 @@ void setup() {
 
 //----------------------------LOOP----------------------------------
 
-const long llenadoInterval = 10000;// esquivale a 10 segundos
+const long llenadoInterval = 10000;// equivale a 10 segundos
 void llenado(){
   unsigned long currentMillis = millis();
     bomba=false;
