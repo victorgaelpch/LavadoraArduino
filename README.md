@@ -8,3 +8,9 @@ El archivo "webpageCode.h" contiene el HTML de la página. La verdad es que toda
 
 Tambien quiero aclarar que las funciones y tiempos de mi codigo son para mi lavadora pero lo hice lo mas dinamico posible para que se adapte a cualquier lavadora con un minimo de cambios, nota* la funcion tambien del llenado se puede controlar con el presostato de la lavadora pero la mia no le sirve asi que tendran que implementar
 
+# Vista previa de la pagina web 
+   muy cutre todavia no se centrar un div T_T
+   
+![Captura de pantalla 2023-09-07 001157](https://github.com/victorgaelpch/LavadoraArduino/assets/80434602/73dafd78-bfae-46c4-868e-73f925b44c6f)
+
+![Captura de pantalla 2023-09-07 001208](https://github.com/victorgaelpch/LavadoraArduino/assets/80434602/0843df65-a500-4a8c-8bda-10a3e6f9758a)
